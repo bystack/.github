@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/bystck/.github/master/banner.jpeg)
+![banner](https://github.com/bystack/.github/blob/main/banner.jpeg)
 
 # Razorpay
 
