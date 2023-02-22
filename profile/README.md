@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/razorpay/.github/master/banner.jpg)
+![banner](https://raw.githubusercontent.com/bystck/.github/master/banner.jpeg)
 
 # Razorpay
 
