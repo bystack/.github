@@ -1,31 +1,19 @@
 ![banner](https://github.com/bystack/.github/blob/main/banner.jpeg)
 
-# Razorpay
+# Bystack
 
-Razorpay aims to revolutionize money management for online businesses by providing clean, developer-friendly APIs and hassle-free integration. We offer a fast, affordable and secure way for merchants, schools, ecommerce and other companies to accept and disburse payments online, own a fully-functional current account and avail working capital loans.
+Welcome to Bystack, a company specialized in full-stack IT solutions. We are a team passionate about technology, committed to providing the best software solutions for businesses of all sizes.
 
-## Getting Started
+At Bystack, we know that every business has unique needs. That's why we work closely with our clients to understand their goals and create customized solutions that meet their specific needs.
 
-To get started with using Razorpay, [signup](https://dashboard.razorpay.com), [check out our docs](https://razorpay.com/docs/), [list of integrations](https://razorpay.com/integrations/), and the [Razorpay App Store](https://razorpay.com/app-store/).
+We offer a wide range of IT services, including software development, database management, mobile app development, and more. Our highly experienced and skilled team specializes in various technologies, including Java, Python, Ruby on Rails, AngularJS, ReactJS, and more.
 
-## Open Source ![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-Open-green)
+At Bystack, we believe that quality is key. That's why we adopt a rigorous approach to testing and quality assurance to ensure that our products and services meet the highest standards. We're always working to improve our solutions and innovate with the latest technologies.
 
-We believe in the power of open-source, and publish our contributions and open-source projects at [opensource.razorpay.com](https://opensource.razorpay.com).
+We strive to provide exceptional customer service, working closely with our clients to ensure that their needs are met. We believe that transparency is essential in any business relationship, which is why we keep our clients informed and involved in all phases of the project.
+
+If you're looking for high-quality full-stack IT solutions and a trusted partner to help your business grow, Bystack is the right choice for you. Contact us today to learn more about how we can help you.
 
 We are always looking for new ways to improve the experience for developers. We welcome feedback, bug reports, and feature requests from the community!
 
-## Hacktoberfest
-
-We are participating in [Hacktoberfest 2022](https://hacktoberfest.com/). Relevant repositories are tagged with Hacktoberfest, and contributions are welcome. Please see [this page](HACKTOBERFEST.md) for more details.
-
-Top contributors to Razorpay repositories will receive a custom Razorpay t-shirt.
-
 ## Follow Us
-
-- Check out our Engineering Blog at [engineering.razorpay.com](https://engineering.razorpay.com/).
-- Follow our Engineering team on [Twitter](https://twitter.com/RazorpayEngg)
-- Check out our stack at [StackShare](https://stackshare.io/companies/razorpay).
-- Follow our Design team on [Twitter](https://twitter.com/razorpay_design) or the [Design Blog](https://design.razorpay.com)
-
-[Security](https://hackerone.com/razorpay)|[Code of Conduct](CODE_OF_CONDUCT.md)|[Work with us](https://razorpay.com/jobs)|[Support](https://razorpay.com/support/)
----|---|---|---
